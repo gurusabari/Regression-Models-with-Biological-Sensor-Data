@@ -39,11 +39,11 @@ Two models are employed for this task:
 To use this model:
 1. Ensure that Python and required libraries (Pandas, scikit-learn) are installed.
 2. Download the dataset files `p1_train.csv` and `p1_test.csv`.
-3. Run the provided Python script (`model.py`) to train the models and evaluate their performance.
+3. Run the provided Python script (`Regression_Problem.ipynb`) to train the models and evaluate their performance.
 
 ## Files
 
-- `model.py`: Python script containing the implementation of the model.
+- `Regression_Problem.ipynb`: Python script containing the implementation of the model.
 - `p1_train.csv`: Training dataset.
 - `p1_test.csv`: Test dataset.
 
@@ -56,7 +56,3 @@ To use this model:
 ## Author
 
 Guru Sabari S
-
----
-
-You can customize this README file further based on your specific requirements and preferences.
